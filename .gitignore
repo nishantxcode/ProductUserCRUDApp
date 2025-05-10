@@ -1,0 +1,9 @@
+# Spring Boot + Java
+/target
+*.log
+*.class
+*.jar
+/.vscode
+*.iml
+.idea/
+.env
