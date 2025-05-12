@@ -1,4 +1,4 @@
-package com.example.productusercrud.model;
+package com.example.productuserrestapi.model;
 
 import jakarta.persistence.*;
 import com.fasterxml.jackson.annotation.JsonManagedReference;

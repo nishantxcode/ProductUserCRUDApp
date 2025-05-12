@@ -1,7 +1,8 @@
-package com.example.productusercrud.controller;
+package com.example.productuserrestapi.controller;
 
-import com.example.productusercrud.model.User;
-import com.example.productusercrud.service.UserService;
+import com.example.productuserrestapi.model.User;
+import com.example.productuserrestapi.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

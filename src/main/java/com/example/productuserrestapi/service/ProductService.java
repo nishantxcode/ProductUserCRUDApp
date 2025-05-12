@@ -1,9 +1,10 @@
-package com.example.productusercrud.service;
+package com.example.productuserrestapi.service;
 
-import com.example.productusercrud.model.Product;
-import com.example.productusercrud.model.User;
-import com.example.productusercrud.repository.ProductRepository;
-import com.example.productusercrud.repository.UserRepository;
+import com.example.productuserrestapi.model.Product;
+import com.example.productuserrestapi.model.User;
+import com.example.productuserrestapi.repository.ProductRepository;
+import com.example.productuserrestapi.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,7 @@
-package com.example.productusercrud.repository;
+package com.example.productuserrestapi.repository;
 
-import com.example.productusercrud.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.productuserrestapi.model.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {}
